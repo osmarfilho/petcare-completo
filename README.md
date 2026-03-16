@@ -1,5 +1,5 @@
 PetCare
-O PetCare Dashboard é uma aplicação web completa desenvolvida em React e TypeScript, destinada à administração e gerenciamento de clínicas veterinárias, abrigos de animais e ONGs de adoção. O sistema implementa um fluxo de autenticação seguro via JWT e fornece operações CRUD (Criar, Ler, Atualizar, Deletar) para gerenciar todas as entidades cruciais do negócio.
+O PetCare é uma aplicação web completa desenvolvida em React e TypeScript, destinada à administração e gerenciamento de clínicas veterinárias, abrigos de animais e ONGs de adoção. O sistema implementa um fluxo de autenticação seguro via JWT e fornece operações CRUD (Criar, Ler, Atualizar, Deletar) para gerenciar todas as entidades cruciais do negócio.
 
 ✨ Funcionalidades Principais (CRUD) O sistema oferece gerenciamento completo para as seguintes entidades:
 
